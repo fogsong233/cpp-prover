@@ -1,0 +1,6 @@
+[
+{
+  "directory": "/Users/kacent/code/prover",
+  "arguments": ["/opt/homebrew/opt/llvm/bin/clang", "-c", "-Qunused-arguments", "-g", "-O0", "-std=c++23", "-Ibuild/.gens/prover/macosx/arm64/debug/platform/windows/idl", "-o", "build/.objs/prover/macosx/arm64/debug/src/main.cpp.o", "src/main.cpp"],
+  "file": "src/main.cpp"
+}]
