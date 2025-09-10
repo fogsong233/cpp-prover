@@ -1,6 +1,6 @@
 [
 {
-  "directory": "/Users/kacent/code/prover",
-  "arguments": ["/opt/homebrew/opt/llvm/bin/clang", "-c", "-Qunused-arguments", "-g", "-O0", "-std=c++23", "-Ibuild/.gens/prover/macosx/arm64/debug/platform/windows/idl", "-o", "build/.objs/prover/macosx/arm64/debug/src/main.cpp.o", "src/main.cpp"],
+  "directory": "/home/kacent/project/cpp-prover",
+  "arguments": ["/home/kacent/llvm-20/LLVM-20.1.8-Linux-X64/bin/clang", "-c", "-Qunused-arguments", "-m64", "-g", "-O0", "-std=c++23", "-o", "build/.objs/prover/linux/x86_64/debug/src/main.cpp.o", "src/main.cpp"],
   "file": "src/main.cpp"
 }]
